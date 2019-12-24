@@ -1,5 +1,5 @@
 .vscode
 .idea
 .DS_Store
-target
+**/target/
 /src/main/java/com/automation/app/
